@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @adityanik234
-- 👀 I’m interested in applications of Machine Learning and deep learning in Engineering and Medicine
-- 🌱 I’m currently studying Data Science and AI at The University of Liverpool, UK
+
